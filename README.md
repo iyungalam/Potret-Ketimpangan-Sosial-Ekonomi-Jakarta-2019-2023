@@ -51,4 +51,4 @@ Disisi lain, Wilayah Jakarta Timur dan Jakarta Utara menunjukkan tingkat pengang
 [10] Williamson, J. G. (1965). Regional inequality and the process of national development: A description of the patterns. Economic Development and Cultural Change, 13(4, Part 2), 1–84.
 
 ## DASHBOARD
-https://public.tableau.com/app/profile/nurul.alam3165/viz/SosialEkonomiDjakarta/Dashboard2
+https://public.tableau.com/app/profile/nurul.alam3165/viz/SosialEkonomiDjakarta/Dashboard23
